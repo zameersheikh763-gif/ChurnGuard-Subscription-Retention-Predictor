@@ -77,4 +77,4 @@ This project is useful for:
 ---
 
 ## 👨‍💻 Author
-Developed by **Janardhan C**
+Developed by **Irfan S**
